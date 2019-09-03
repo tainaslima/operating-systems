@@ -13,7 +13,7 @@ The algorithms implemented are:
 - Preemptive Priority (PRIOp)
 - Dynamic Priority (PRIOd)
 
-The program receives the tasks information through an .txt file called "entry.txt". This file contains the tasks' duration, its time of arrival e priority. Based on these information, the program calculates, for each algorithm, the tasks' total medium time of execution, total medium time of wait and the number of context switching.
+The program receives the tasks information through an .txt file called "entry.txt". This file contains the number of tasks (first line), the tasks' duration (second line), its time of arrival (third line) e priority (fourth line). This order of each information in each line must be followed. Based on these information, the program calculates, for each algorithm, the tasks' total medium time of execution, total medium time of wait and the number of context switching.
 
 ## Using the code
 To run this code you'll just need to get Python installed. I used Python 3.x to write the code, so I think that if you use 2.x version, you have to make some changes in the code.
