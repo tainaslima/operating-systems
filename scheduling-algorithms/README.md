@@ -1,6 +1,6 @@
 # Scheduling Algorithms
 
-## Objetive
+## Objective
 The objetive of this code is to learn and analyze the most common and basic scheduling algorithms presented in operating systems class whose is a obligatory subject in computer science course at UFRJ.
 
 ## Description
