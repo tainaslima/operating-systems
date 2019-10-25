@@ -20,7 +20,7 @@ To execute the program, you'll use this command line in your console:
 python trabalho1SO.py example1.txt 4
 ```
 Where the first file is the program, the second is the file with the reference string (example1.txt, example2.txt or example3.txt) and the last argument is the number of frames that you want to simulate. <br>
-If you have a problem with the path, you can run the code using the full path of python and/or the source code on your PC.
+If you have a problem with the path, you can run the code using the full path of python and/or the source code on your PC.<br>
 Running this example command line, you should get the result:
 ```
 4 quadros, 24 refs: FIFO: 12 PFs, LRU: 11 PFs, OPT: 9 PFs
