@@ -2,7 +2,7 @@
 # Page Replacement Algorithms
 
 ## Objective
-The objective of this code is to learn and analyze the most common and basic page replacement algorithms presented in the operating systems class who is an obligatory subject in the computer science course at UFRJ.
+The objective of this code is to learn and analyze the most common page replacement algorithms presented in the operating systems class who is an obligatory subject in the computer science course at UFRJ.
 
 ## Description
 The algorithms implemented were: 
