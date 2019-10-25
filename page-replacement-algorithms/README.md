@@ -10,7 +10,8 @@ The algorithms implemented were:
 - Optimal (OPT)
 - Least recently used (LRU)
 
-The program receives a file with a reference string chosen by you (example 1, 2 or 3) and the number of frames that you want. With this information, the program simulates the paging mechanism, considering that the sequence of required pages by this "fake" process is given by the reference string, and calculates the number of page faults for each algorithm.  
+The program receives a file with a reference string chosen by you (example 1, 2 or 3) and the number of frames that you want. With this information, the program simulates the paging mechanism, considering that the sequence of required pages by this "fake" process is given by the reference string, and calculates the number of page faults for each algorithm. <br>
+The instructions for this work can be found [here](http://wiki.inf.ufpr.br/maziero/doku.php?id=so:algoritmos_de_substituicao_de_paginas), although I did it a little bit differently.
 
 ## Using the code
 To run this code you'll just need to get Python installed. I used Python 3.x to write the code, so I think that if you use 2.x version, you have to make some changes in the code.<br>
