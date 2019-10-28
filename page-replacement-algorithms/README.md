@@ -29,6 +29,7 @@ Running this example command line, you should get the result:
 - Windows 10 
 - IDLE (Python 3.5.2)
 - Python language
+- Libraries: os and sys
 
 ## Authors
 - Tainá Lima
